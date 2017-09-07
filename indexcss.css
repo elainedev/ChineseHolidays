@@ -14,7 +14,7 @@ body
 	background-image: url(blossomPattern4.jpg);
 }
 
-#wrapper 
+#wrapper
 {
 	width: 80%;
 	margin-left: auto;
@@ -30,7 +30,7 @@ body
 background-image: -webkit-linear-gradient(270deg,rgba(245,159,183,1.00) 19.17%,rgba(255,255,85,1.00) 100%,rgba(192,87,89,1.00) 100%);
 background-image: -moz-linear-gradient(270deg,rgba(245,159,183,1.00) 19.17%,rgba(255,255,85,1.00) 100%,rgba(192,87,89,1.00) 100%);
 background-image: -o-linear-gradient(270deg,rgba(245,159,183,1.00) 19.17%,rgba(255,255,85,1.00) 100%,rgba(192,87,89,1.00) 100%);
-background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,255,85,1.00) 100%,rgba(192,87,89,1.00) 100%); 
+background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,255,85,1.00) 100%,rgba(192,87,89,1.00) 100%);
 
 }
 
@@ -38,7 +38,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	position: relative;
 	top: 0.5em;
 }
-		
+
 #wrapper #topBox #top {
 	margin: 0%;
 	padding: 0%;
@@ -48,11 +48,11 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 }
 
 #wrapper #topBox #yellowBar {
-		
+
 		margin-top: -6px;
 		padding: 0px;
 		width: 100%;
-		border: 0px;	
+		border: 0px;
 		float: left;
 		background-color: #fff006;
 
@@ -74,7 +74,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	width: 100%;
 }
 
-#wrapper #mainnav ul li a 
+#wrapper #mainnav ul li a
 {
 	float: left;
 	color: #000;
@@ -111,31 +111,31 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	margin: 0px;
 	text-align: justify;
 	font-family: "Tahoma";
-	
+
 }
 
 
 
-#wrapper #secondaryNav ul li 
+#wrapper #secondaryNav ul li
 {
-	
+
 	list-style-type: none;
 	width: 50%;
 	margin-left: 24%;
-	
+
 }
 
 #wrapper #secondaryNav ul li a {
 	float: left;
 	color: #000;
-	font-family:"Corbel"; 
+	font-family:"Corbel";
 	font-size: 0.92em;
 	text-decoration: none;
 	text-align: center;
 	width: 33.33%
 }
 #wrapper #footnote{
-	
+
 	padding-top: 30px;
 	padding-bottom: 20px;
 	position: relative;
@@ -152,7 +152,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 #wrapper .bottomRow {
 	height: 235px;
 	margin-top:3.5em;
-	
+
 }
 
 /* .spacearound {
@@ -189,7 +189,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	float: left;
 	padding-left: 4.5%;
 	padding-right: 4.5%;
-		}	
+		}
 
 #wrapper .middle .middlepic {
 	width: 100%;
@@ -199,15 +199,15 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	
+
 	}
-	
+
 #wrapper .right{
 	width: 25%;
 	height: 100%;
 	float: right;
 	padding-right: 8%;
-	
+
 }
 
 #wrapper .right .rightpic {
@@ -218,15 +218,15 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	
-		
+
+
 	}
-	
+
 .subtitle{
 	text-align: center;
 	top: 7px;
 	position: relative;
-	
+
 }
 
 .subtitleLink{
@@ -235,7 +235,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 	color: #000;
 	text-decoration: none;
 	text-transform: none;
-	
+
 	}
 
 #yellowBar ul li a:hover{
@@ -245,7 +245,7 @@ background-image: linear-gradient(180deg,rgba(245,159,183,1.00) 19.17%,rgba(255,
 a:hover{
 	font-weight: normal;
 	font-size: 1.2em;
-	
+
 }
 
 .here{
@@ -253,10 +253,10 @@ a:hover{
 }
 
 #footnote ul li a:hover
-{	
+{
 	font-weight: bold;
 }
-	
+
 
 a:hover{
 	font-weight: normal;
@@ -309,4 +309,3 @@ a:hover{
 	-o-transition: all 0.2s ease-in 0s;
 	transition: all 0.2s ease-in 0s;
 }
-
